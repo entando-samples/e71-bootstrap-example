@@ -1,0 +1,9 @@
+{
+    "microservices": [],
+    "microfrontends": [],
+    "svc": [],
+    "name": "e71-bootstrap-example",
+    "version": "0.0.1",
+    "description": "bootstrap-example-bundle description",
+    "type": "bundle"
+}

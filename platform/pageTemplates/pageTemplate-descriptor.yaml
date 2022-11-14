@@ -1,0 +1,21 @@
+code: bootstrap_bundle_example_pt # The page template identification
+description:  Bootstrap page template from bundle # The page template description
+
+titles: # my_page_template's titles
+  en: bootstrap_bundle_example_pt # Title in English
+  it: bootstrap_bundle_example_pt # Title in Italian
+
+# The page template configuration
+configuration:
+  frames:
+    - pos: 0
+      description: Bootstrap example
+      mainFrame: false
+      defaultWidget: null
+      sketch:
+        x1: 0
+        y1: 0
+        x2: 11
+        y2: 1
+# Optional. Define the page template in a separate file or inside the descriptor file with `template`
+templatePath: bootstrap_bundle_example_pt.ftl
